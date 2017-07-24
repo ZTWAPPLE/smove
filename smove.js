@@ -379,7 +379,7 @@ function activate_black_ball(){
 						temp2.x = (canvas.width / 2);
 					}
 					else{
-						temp1.x = (canvas.width / 2) - grid_size;
+						temp1.x = (canvas.width / 2) + grid_size;
 						temp2.x = (canvas.width / 2);
 					}
 				}
@@ -393,7 +393,7 @@ function activate_black_ball(){
 						temp2.x = (canvas.width / 2);
 					}
 					else{
-						temp1.x = (canvas.width / 2) - grid_size;
+						temp1.x = (canvas.width / 2) + grid_size;
 						temp2.x = (canvas.width / 2);
 					}
 				}
